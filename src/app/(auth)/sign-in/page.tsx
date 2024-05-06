@@ -62,7 +62,7 @@ export default function SignInForm() {
     <div className="flex justify-center items-center min-h-screen bg-zinc-800">
       <div className="w-full max-w-md p-8 space-y-8  bg-white rounded-lg shadow-md">
         <div className="text-center">
-          <h1 className="text-3xl font-extrabold tracking-tight lg:text-4xl mb-6">
+          <h1 className="text-3xl font-extrabold tracking-tight lg:text-3xl mb-6">
             Welcome Back to Random Feedback
           </h1>
           <p className="mb-4 text-sm">
